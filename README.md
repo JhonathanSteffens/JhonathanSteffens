@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![](https://github.com/JhonathanSteffens/JhonathanSteffens/blob/master/Capa_Github.png)
 
@@ -10,6 +9,10 @@
     </tr>   
 </table>
 </center>  
+
+### Olá, Seja Bem Vindo!
+
+Meu nome é Jhonathan e estou ingressando na área de desenvolvimento, sou formado em Engenharia Mecânica e atualmente estou focado em aprender JavaScript, CSS e HTML
 <!--
 **JhonathanSteffens/JhonathanSteffens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
