@@ -12,7 +12,7 @@
 
 ### Olá, Seja Bem Vindo!
 
-Meu nome é Jhonathan e estou ingressando na área de desenvolvimento, sou formado em Engenharia Mecânica e atualmente estou focado em aprender JavaScript, CSS e HTML
+Meu nome é Jhonathan e estou iniciando minha carreira como desenvolvedor. Atualmente atuo como programador Júnior na empresa Viasoft e estou focado no aprendizado da linguagem Java. Aqui se encontram meus primeiros projetos e passos na programação.
 <!--
 **JhonathanSteffens/JhonathanSteffens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
